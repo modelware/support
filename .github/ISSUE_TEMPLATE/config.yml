@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔐 Security Vulnerability
+    url: mailto:support@modelware.io
+    about: Please report security vulnerabilities directly to our security team. Do NOT open a public issue.
+  - name: 💼 Enterprise Support
+    url: mailto:support@modelware.io
+    about: For enterprise customers needing dedicated assistance.
